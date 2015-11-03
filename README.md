@@ -1,2 +1,7 @@
 # hello-world
-New repository
+
+Hello World!
+============
+
+I'm a newcomer to the world of programming.
+
